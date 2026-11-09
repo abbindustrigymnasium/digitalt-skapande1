@@ -163,36 +163,6 @@ Animationerna `ga` och `sta` skapar du i animationspanelen. Du kan också använ
 5. Varför bör en pixelgrafik skalas med ett heltal?
 6. Vad är anticipation, och vilken risk finns med det i spel?
 
-## Övningar
-
-**Grund.** Rita tre silhuetter: en hjälte, en fiende och ett samlarföremål. Kan någon annan säga vilken som är vilken?
-
-**Grund.** En animation med 6 bildrutor spelas i 10 fps. Hur lång tid tar den?
-
-<details><summary>Svar</summary>
-
-6 ÷ 10 = 0,6 sekunder.
-
-</details>
-
-**Grund.** Ett spritesheet har 4 rader med 6 rutor per rad, och varje ruta är 48 × 48 pixlar. Hur stor är hela bilden?
-
-<details><summary>Svar</summary>
-
-Bredd: 6 × 48 = 288 pixlar. Höjd: 4 × 48 = 192 pixlar. Bilden är 288 × 192 pixlar.
-
-</details>
-
-**Vidare.** Du vill ha en basupplösning som skalas med heltal till 1920 × 1080 och använder 16 × 16-tiles. Testa 480 × 270. Vilken är skalfaktorn, och hur många tiles får plats?
-
-<details><summary>Svar</summary>
-
-Skalfaktor: 1920 ÷ 480 = 4 och 1080 ÷ 270 = 4. Tiles: 480 ÷ 16 = 30 i bredd och 270 ÷ 16 = 16,875 på höjden, alltså 16 hela rader och en del av en till.
-
-</details>
-
-**Utmaning.** Välj en palett på sex färger. Gör en bild i spelet med bara dem. Gör sedan en kopia i gråskala och beskriv vad du behöver ändra för att allt ska synas.
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) ska du ha sprites för spelare, fiender och bakgrund, minst en enkel animation och gärna ett tileset. Bestäm stil och palett innan du börjar rita, och skriv motiveringen i loggen.

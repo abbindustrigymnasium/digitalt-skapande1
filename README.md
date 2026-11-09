@@ -9,7 +9,7 @@ En översikt över kursen, dess delar och projekt: [Digitalt skapande 1 - Kurspr
 ## Så använder du boken
 
 - Läs kapitlen i ordning. De följer kursens gång, men du kan också gå tillbaka till det du behöver.
-- Varje kapitel börjar med vad du ska lära dig och slutar med begrepp, frågor och övningar. Svar på räkneuppgifter finns under en utfällbar rubrik.
+- Varje kapitel börjar med vad du ska lära dig och slutar med begrepp och frågor.
 - Genom hela boken används det påhittade exempelspelet Fyrvaktaren, så att du ser hur en och samma idé kan utvecklas.
 - Projektmapparna beskriver vad du ska göra i de två spelen. I kapitlens slut står det hur du använder kapitlet i projektet.
 - Starta din processlogg redan första lektionen. Den är din viktigaste dokumentation.

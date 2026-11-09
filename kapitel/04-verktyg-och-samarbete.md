@@ -145,22 +145,6 @@ I en grupp behöver ni dessutom bestämma vem som ansvarar för vad och hur ni h
 5. Varför bör en grupp bestämma var besluten ska samlas?
 6. När behöver du Git LFS?
 
-## Övningar
-
-**Grund.** Skapa en mappstruktur för ditt projekt enligt exemplet och förklara varför du valde den.
-
-**Grund.** Hur mycket grafikminne tar en bild på 1280 × 720 pixlar med 4 byte per pixel, utan komprimering? Svara i byte och MB.
-
-<details><summary>Svar</summary>
-
-1280 × 720 × 4 = 3 686 400 byte, alltså cirka 3,7 MB.
-
-</details>
-
-**Vidare.** Fotografera en skiss, renteckna den i valfritt ritprogram, exportera som PNG och lägg in den i ett Godot-projekt. Skriv en loggpost om vad som gick förlorat eller blev bättre i varje steg.
-
-**Utmaning.** Jämför två verktyg som gör samma sak, till exempel Krita och Piskel. Vilket passar till ditt spel, och varför? Motivera med både estetiska och tekniska argument.
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) lämnar du in koden på GitHub, och i [3D-spelet](../projekt/3d-spel/README.md) används GitHub Classroom med Git LFS. Bygg upp mappstrukturen redan vid projektstart, och lägg med `KREDITER.md` från början.

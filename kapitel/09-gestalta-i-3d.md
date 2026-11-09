@@ -145,30 +145,6 @@ Godots dokumentation rekommenderar formatet glTF 2.0, som finns i varianterna `.
 6. Vilka är trepunktsljusets tre delar, och vilken uppgift har var och en?
 7. Varför är det smart att modellera i rätt skala?
 
-## Övningar
-
-**Grund.** Bygg ett rum i Godot med enbart CSG-former och ge det tre olika stämningar genom att bara ändra ljuset. Ta en skärmbild av var och en.
-
-**Grund.** En textur är 2048 × 2048 pixlar med 4 byte per pixel. Hur mycket minne tar den utan mipmaps och komprimering?
-
-<details><summary>Svar</summary>
-
-2048 × 2048 × 4 = 16 777 216 byte, vilket är 16 MiB.
-
-</details>
-
-**Vidare.** En scen innehåller 25 stenar med 500 trianglar och 10 buskar med 150 trianglar. Hur många trianglar är det totalt?
-
-<details><summary>Svar</summary>
-
-25 × 500 + 10 × 150 = 12 500 + 1 500 = 14 000 trianglar.
-
-</details>
-
-**Vidare.** Bygg en liten plats där spelaren ska hitta ett mål utan att någon text säger vart. Testa med en kamrat och se om det fungerar.
-
-**Utmaning.** Välj en scen från ett 3D-spel du gillar. Analysera hur ljus, färg och kamera styr vad du lägger märke till och vilken känsla scenen ger.
-
 ## Koppling till projektet
 
 [3D-spelet](../projekt/3d-spel/README.md) kräver en spelbar 3D-miljö med modeller, material eller texturer, kamera som följer spelaren och tydlig navigering. Börja med en grå prototyp, bestäm stämningen med ljus och dimma, och lägg in detaljer sist.

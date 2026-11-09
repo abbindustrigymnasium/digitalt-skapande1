@@ -140,24 +140,6 @@ En plan är en gissning. Under arbetets gång ser du om den stämmer. Efter proj
 6. Varför bör du ha en spelbar version så tidigt som möjligt?
 7. Vad innebär det att värdera en projektplan efter ett projekt?
 
-## Övningar
-
-**Grund.** Gör tio miniatyrer av en spelfigur på ett papper. Ge dig själv högst tjugo sekunder per figur. Ringa in de två bästa och skriv varför.
-
-**Grund.** Rita ett tillståndsdiagram över alla skärmar i ett spel du känner till.
-
-**Vidare.** Du har 20 timmar och vill lägga 15 procent som reservtid. Hur många timmar är kvar att fördela? Fördela dem på minst sex delar.
-
-<details><summary>Svar</summary>
-
-15 procent av 20 timmar är 3 timmar. Det är 20 − 3 = 17 timmar kvar att fördela.
-
-</details>
-
-**Vidare.** Gör en pappersprototyp av en menyskärm och låt en kompis försöka starta spelet och ändra ljudvolymen. Skriv upp var kompisen tvekade.
-
-**Utmaning.** Skriv hela projektplanen för ett litet spel med alla punkter ovan. Låt någon annan läsa den och berätta för dig vad spelet går ut på. Stämmer det med din bild?
-
 ## Koppling till projektet
 
 Planeringen är en egen del av båda projekten. I [2D-spelet](../projekt/2d-spel/README.md) ska du skriva ett dokument med spelidé, skiss och pseudokod eller flödesschema och få det godkänt. I [3D-spelet](../projekt/3d-spel/README.md) krävs en projektplan med spelidé, målgrupp, skisser, kravlista och tekniska förutsättningar.

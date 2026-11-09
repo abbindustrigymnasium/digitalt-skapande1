@@ -125,24 +125,6 @@ Det klarar inte ens gränsen för stor text. Texten skulle gå att läsa på din
 5. Vad krävs för att en meny ska fungera utan mus?
 6. Vilka kontrastförhållanden rekommenderar WCAG för vanlig och stor text?
 
-## Övningar
-
-**Grund.** Rita skärmskisser av start- och game over-skärmen. Skriv vilken information du tagit med och vilken du medvetet tagit bort.
-
-**Grund.** Använd WebAIM:s verktyg för att mäta kontrasten mellan texten och bakgrunden i en av dina menyer. Klarar den 4,5:1?
-
-**Vidare.** Räkna ut kontrasten mellan vit text `#FFFFFF` och bakgrunden `#333333`. Använd att relativa luminansen för vit är 1,0 och för `#333333` är cirka 0,0331.
-
-<details><summary>Svar</summary>
-
-(1,0 + 0,05) ÷ (0,0331 + 0,05) = 1,05 ÷ 0,0831 ≈ 12,6. Kontrasten är cirka 12,6:1.
-
-</details>
-
-**Vidare.** Lägg till en knapp för att stänga av skärmskakning eller blink i en spelprototyp, eller rita hur inställningsmenyn skulle se ut.
-
-**Utmaning.** Gör en genomgång av ett spel med hjälp av fem principer från tabellen. Skriv var spelet klarar principen och var det brister, och ge förslag på förbättringar.
-
 ## Koppling till projektet
 
 I båda projekten krävs startskärm och game over-skärm, och HUD är ett bra tillägg. I [3D-spelet](../projekt/3d-spel/README.md) ska du dessutom arbeta med tillgänglighet, till exempel kontrast, textstorlek och kontroller, och värdera det i din plan. I [2D-spelet](../projekt/2d-spel/README.md) räcker tydliga menyer och kontroller som en början.

@@ -152,30 +152,6 @@ Inför en mässa eller visning bör du ha skärmbilder, en kort presentation och
 6. Varför ska du testa det exporterade spelet på en annan dator?
 7. Vad måste du kontrollera innan du publicerar spelet offentligt?
 
-## Övningar
-
-**Grund.** Skriv en testplan med tre frågor du vill ha svar på och tre uppgifter till testaren.
-
-**Grund.** Under ett test gör 6 testare vardera 5 uppgifter, och 24 försök lyckas. Hur många procent är det?
-
-<details><summary>Svar</summary>
-
-6 × 5 = 30 försök. 24 ÷ 30 = 0,80, alltså 80 procent.
-
-</details>
-
-**Vidare.** Använd Nielsens formel med *L* = 31 procent. Hur stor andel av problemen beräknas hittas med 3 testare?
-
-<details><summary>Svar</summary>
-
-1 − 0,69³ = 1 − 0,3285 ≈ 0,67, alltså omkring 67 procent.
-
-</details>
-
-**Vidare.** Välj ett kort spel och skriv en analys enligt de fyra stegen, med minst fem begrepp från boken.
-
-**Utmaning.** Skriv en analys av ditt eget spel som binder ihop minst ett estetiskt val med en teknisk konsekvens. Föreslå också vad du skulle ändra med mer tid.
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) testspelar en klasskamrat ditt spel, du åtgärdar feedbacken, exporterar och redovisar. I [3D-spelet](../projekt/3d-spel/README.md) genomför du användartester, åtgärdar dem, värderar din plan och visar spelet på en mässa där ni provar varandras spel.

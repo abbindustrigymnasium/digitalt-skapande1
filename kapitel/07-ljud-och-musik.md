@@ -164,30 +164,6 @@ I Godot används **ljudbussar**, kanaler som kan styras gemensamt. Skapa till ex
 5. Vad måste stämma för att en loop ska bli sömlös?
 6. Hur stor förändring i amplitud motsvarar −6 dB?
 
-## Övningar
-
-**Grund.** Spela in tre ljud med vardagsföremål och beskriv vilka spelhändelser de skulle kunna passa till.
-
-**Grund.** Hur stor blir en WAV-fil på 5 sekunder med 44,1 kHz, 16 bitar och mono?
-
-<details><summary>Svar</summary>
-
-44 100 × 2 × 1 × 5 = 441 000 byte, alltså cirka 0,44 MB.
-
-</details>
-
-**Vidare.** En låt i 90 BPM och 4/4-takt ska loopa på 16 takter. Hur lång är loopen?
-
-<details><summary>Svar</summary>
-
-Tid per slag: 60 ÷ 90 ≈ 0,667 s. Tid per takt: 4 × 60 ÷ 90 ≈ 2,667 s. Hela loopen: 16 × 4 × 60 ÷ 90 ≈ 42,67 s.
-
-</details>
-
-**Vidare.** Välj en händelse i ditt spel. Gör tre ljudförslag till den, låt någon lyssna och beskriv vilket som fungerar bäst och varför.
-
-**Utmaning.** Spela en scen ur ett spel du gillar, först med ljud och sedan utan. Skriv en kort analys av vad ljudet tillförde, med begrepp från kapitlet.
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) krävs ljudeffekter och bakgrundsmusik. I [3D-spelet](../projekt/3d-spel/README.md) krävs ljud för rörelse, hopp, kollisioner eller insamling och musik eller ljud för atmosfär. Använd positionsberoende ljud i 3D med noden `AudioStreamPlayer3D`.

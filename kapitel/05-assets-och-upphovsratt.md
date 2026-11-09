@@ -140,22 +140,6 @@ Skolverket lyfter fram just den här sortens frågor i ämnets syfte. Ta upp dem
 6. Vilka uppgifter behöver en bra kreditering innehålla?
 7. Nämn två etiska frågor du behöver ta ställning till i ett spelprojekt.
 
-## Övningar
-
-**Grund.** Leta upp tre filer på Kenney, Freesound och OpenGameArt som skulle passa ditt spel. Skriv en tabell med titel, upphovsperson, källa och licens.
-
-**Grund.** Vad krävs av dig för att använda en bild som är märkt CC BY-SA 4.0 om du ändrar färgen på den?
-
-<details><summary>Svar</summary>
-
-Du måste ange upphovspersonen (BY), ange att du ändrat bilden, och dela din bearbetade version under samma eller kompatibla villkor (SA).
-
-</details>
-
-**Vidare.** Hitta något i ett spel du spelat som du misstänker påverkar spelaren på ett olämpligt sätt, till exempel genom köp eller press. Beskriv hur det fungerar och föreslå en mer rättvis lösning.
-
-**Utmaning.** Ta ett känt enkelt spel och beskriv en version som är tydligt inspirerad men som inte bryter mot upphovsrätten. Vad skulle du byta, och vad behåller du?
-
 ## Koppling till projektet
 
 I både [2D-spelet](../projekt/2d-spel/README.md) och [3D-spelet](../projekt/3d-spel/README.md) gäller att koden inte får hämtas färdig från nätet. Assets är en annan fråga: 3D-projektet nämner färdiga assets som ett alternativ, och 2D-guiden tar inte upp det, så fråga läraren om du vill använda lånat material där. Starta `KREDITER.md` första dagen och lägg till en rad varje gång du hämtar något.

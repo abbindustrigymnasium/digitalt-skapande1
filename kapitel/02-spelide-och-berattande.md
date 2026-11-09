@@ -121,16 +121,6 @@ Det sista steget är analogt och tar en stund. Det är så du märker om spelet 
 5. Vad menas med att berättelse och regler kan säga olika saker?
 6. Varför är en smal målgrupp oftast bättre än "alla"?
 
-## Övningar
-
-**Grund.** Skriv tre pitchar med mallen. En ska vara inspirerad av något du gillar, en ska börja med en känsla och en ska börja med en begränsning.
-
-**Grund.** Välj ett spel du känner till. Rita spelets kärnloop som fyra rutor med pilar.
-
-**Vidare.** Gör en pappersprototyp av en av dina pitchar. Testa den med någon i fem minuter och skriv ner vad som hände. Var det som du hade tänkt?
-
-**Utmaning.** Analysera ett kort spel utifrån de tre nivåerna: mekanik, dynamik och upplevelse. Hitta ett tillfälle där mekaniken och berättelsen stärker varandra, och ett där de krockar.
-
 ## Koppling till projektet
 
 I [2D-spelets](../projekt/2d-spel/README.md) planeringslektion ska du beskriva din spelidé. Använd pitchmallen som första mening i planen, och ha en tydlig kärnloop klar innan du börjar bygga. I [3D-spelet](../projekt/3d-spel/README.md) kräver projektplanen dessutom att du skriver ut en målgrupp.

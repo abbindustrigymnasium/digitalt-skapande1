@@ -114,16 +114,6 @@ Lägg märke till raden "Varför". Det är där du visar att du gjort ett medvet
 5. Varför är det inte säkert att ett verktygs standardinställningar är bra för ditt verk?
 6. Vilka tre frågor ska en bra dokumentation besvara?
 
-## Övningar
-
-**Grund.** Välj ett spel eller en film du tycker om. Skriv ner tre saker du tror att skaparna ändrade under arbetet, och motivera varför de kan ha gjort det.
-
-**Grund.** Skriv en loggpost efter nästa lektion, med samma rader som i exemplet.
-
-**Vidare.** Rita samma figur på två sätt: först för hand, sedan i ett digitalt ritprogram. Lägg bilderna bredvid varandra. Beskriv vad som blev annorlunda och vilken som passar bäst för ett spel.
-
-**Utmaning.** Hitta ett digitalt verk, till exempel ett spel, en app eller en digital konstinstallation, där teknikens begränsningar syns tydligt. Skriv ett kort stycke om hur begränsningen påverkar upplevelsen.
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) och [3D-spelet](../projekt/3d-spel/README.md) går du igenom hela processen två gånger. Starta din processlogg redan första lektionen. Betygskriterierna handlar om hur väl du känner till processens faser och om hur noggrann din dokumentation är, så loggen är en viktig del av underlaget.
