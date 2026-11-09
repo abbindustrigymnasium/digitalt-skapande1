@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 170" width="580" height="170" role="img" aria-label="Spritesheet med åtta bildrutor på rad, varje ruta 32 gånger 32 pixlar, totalt 256 gånger 32 pixlar">
+  <rect width="580" height="170" fill="#ffffff"/>
+  <g font-family="Helvetica, Arial, sans-serif" fill="#1b263b">
+    <text x="20" y="26" font-size="15" font-weight="bold">Ett spritesheet: 8 bildrutor på en rad</text>
+    <g stroke="#1b263b" stroke-width="1.5" fill="#f4f1de">
+      <rect x="20" y="44" width="64" height="64"/><rect x="84" y="44" width="64" height="64"/>
+      <rect x="148" y="44" width="64" height="64"/><rect x="212" y="44" width="64" height="64"/>
+      <rect x="276" y="44" width="64" height="64"/><rect x="340" y="44" width="64" height="64"/>
+      <rect x="404" y="44" width="64" height="64"/><rect x="468" y="44" width="64" height="64"/>
+    </g>
+    <g fill="#1b263b">
+      <circle cx="52" cy="62" r="7"/><rect x="48" y="69" width="8" height="18"/><path d="M48 87l-7 14h5l6-12zM56 87l7 14h-5l-6-12z"/>
+      <circle cx="116" cy="62" r="7"/><rect x="112" y="69" width="8" height="18"/><path d="M112 87l-4 14h5l3-12zM120 87l5 14h-5l-4-12z"/>
+      <circle cx="180" cy="62" r="7"/><rect x="176" y="69" width="8" height="18"/><path d="M176 87v14h5v-12zM184 87v14h-5v-12z"/>
+      <circle cx="244" cy="62" r="7"/><rect x="240" y="69" width="8" height="18"/><path d="M240 87l4 14h5l-5-12zM248 87l-4 14h-5l5-12z"/>
+      <circle cx="308" cy="62" r="7"/><rect x="304" y="69" width="8" height="18"/><path d="M304 87l7 14h5l-8-12zM312 87l-7 14h-5l8-12z"/>
+      <circle cx="372" cy="62" r="7"/><rect x="368" y="69" width="8" height="18"/><path d="M368 87l4 14h5l-5-12zM376 87l-5 14h-5l6-12z"/>
+      <circle cx="436" cy="62" r="7"/><rect x="432" y="69" width="8" height="18"/><path d="M432 87v14h5v-12zM440 87v14h-5v-12z"/>
+      <circle cx="500" cy="62" r="7"/><rect x="496" y="69" width="8" height="18"/><path d="M496 87l-4 14h5l5-12zM504 87l4 14h-5l-5-12z"/>
+    </g>
+    <path d="M20 122h512M20 117v10M532 117v10" stroke="#1b263b" fill="none" stroke-width="1.5"/>
+    <text x="276" y="143" font-size="14" text-anchor="middle">8 rutor × 32 pixlar = 256 pixlar brett, 32 pixlar högt</text>
+    <text x="276" y="161" font-size="13" text-anchor="middle" fill="#415a77">Spelas med 12 bildrutor per sekund: 8 ÷ 12 ≈ 0,67 sekunder per varv</text>
+  </g>
+</svg>

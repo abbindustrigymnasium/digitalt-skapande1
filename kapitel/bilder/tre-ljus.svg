@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 360" width="540" height="360" role="img" aria-label="Scen sedd uppifrån med figur i mitten, huvudljus snett framifrån, fyllnadsljus från andra sidan och bakljus bakom figuren">
+  <rect width="540" height="360" fill="#ffffff"/>
+  <g font-family="Helvetica, Arial, sans-serif" fill="#1b263b">
+    <text x="20" y="26" font-size="15" font-weight="bold">Trepunktsljus, sett uppifrån</text>
+    <circle cx="270" cy="175" r="24" fill="#415a77"/>
+    <text x="270" y="180" font-size="13" text-anchor="middle" fill="#ffffff">Figur</text>
+    <g stroke="#b5651d" stroke-width="2" stroke-dasharray="7 5"><line x1="110" y1="85" x2="248" y2="165"/><line x1="430" y1="85" x2="292" y2="165"/><line x1="270" y1="325" x2="270" y2="200"/></g>
+    <rect x="58" y="62" width="60" height="30" rx="4" fill="#ffd166" stroke="#1b263b"/>
+    <text x="88" y="52" font-size="13" text-anchor="middle" font-weight="bold">Huvudljus</text>
+    <text x="88" y="111" font-size="12" text-anchor="middle">starkast</text>
+    <rect x="422" y="62" width="60" height="30" rx="4" fill="#fff3c4" stroke="#1b263b"/>
+    <text x="452" y="52" font-size="13" text-anchor="middle" font-weight="bold">Fyllnadsljus</text>
+    <text x="452" y="111" font-size="12" text-anchor="middle">svagare, mjukar upp</text>
+    <rect x="240" y="322" width="60" height="30" rx="4" fill="#ffe08a" stroke="#1b263b"/>
+    <text x="330" y="335" font-size="13" font-weight="bold" text-anchor="start">Bakljus</text>
+    <text x="330" y="351" font-size="12" text-anchor="start">skiljer figuren från bakgrunden</text>
+    <polygon points="270,60 262,75 278,75" fill="#1b263b"/>
+    <text x="270" y="52" font-size="13" text-anchor="middle">Kamera</text>
+    <line x1="270" y1="78" x2="270" y2="148" stroke="#1b263b" stroke-width="1.5"/>
+  </g>
+</svg>
