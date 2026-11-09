@@ -2,6 +2,10 @@
 
 Välkommen till kursboken för **Digitalt skapande nivå 1** (DIGA1000X) på Hitachigymnasiet Västerås! I kursen skapar du två spel, ett i 2D och ett i 3D, och det är idén, berättandet, bilden, ljudet och spelarens upplevelse som står i centrum. Du lär dig arbeta med digitala verktyg, att använda andras material på rätt sätt, att testa och att sätta ord på det du gjort.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Digitalt skapande 1 - Kurspresentation.pptx](Digitalt%20skapande%201%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 - Läs kapitlen i ordning. De följer kursens gång, men du kan också gå tillbaka till det du behöver.
