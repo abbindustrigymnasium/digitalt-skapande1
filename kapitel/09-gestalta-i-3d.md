@@ -135,16 +135,6 @@ Godots dokumentation rekommenderar formatet glTF 2.0, som finns i varianterna `.
 - **Vägvisning:** hur miljön leder spelaren.
 - **Landmärke:** något högt eller tydligt som ger riktning.
 
-## Testa dig själv
-
-1. På vilket sätt förändras ditt arbete när du går från 2D till 3D?
-2. Vad är skillnaden mellan ett material och en textur?
-3. Varför kan lågpolygonstil vara ett bra val?
-4. Vilken ljuskälla skulle du använda för en lykta, och varför?
-5. Hur kan ljus användas för att visa spelaren vägen?
-6. Vilka är trepunktsljusets tre delar, och vilken uppgift har var och en?
-7. Varför är det smart att modellera i rätt skala?
-
 ## Koppling till projektet
 
 [3D-spelet](../projekt/3d-spel/README.md) kräver en spelbar 3D-miljö med modeller, material eller texturer, kamera som följer spelaren och tydlig navigering. Börja med en grå prototyp, bestäm stämningen med ljus och dimma, och lägg in detaljer sist.

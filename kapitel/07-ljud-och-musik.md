@@ -155,15 +155,6 @@ I Godot används **ljudbussar**, kanaler som kan styras gemensamt. Skapa till ex
 - **Decibel:** logaritmisk enhet för ljudnivå.
 - **Mixning:** att balansera ljudens styrka mot varandra.
 
-## Testa dig själv
-
-1. Nämn tre uppgifter ljud har i ett spel.
-2. Vad är skillnaden mellan diegetiskt och icke-diegetiskt ljud?
-3. Varför är WAV ofta bra till korta ljud men sämre för musik?
-4. Hur kan du undvika att samma ljud känns tjatigt?
-5. Vad måste stämma för att en loop ska bli sömlös?
-6. Hur stor förändring i amplitud motsvarar −6 dB?
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) krävs ljudeffekter och bakgrundsmusik. I [3D-spelet](../projekt/3d-spel/README.md) krävs ljud för rörelse, hopp, kollisioner eller insamling och musik eller ljud för atmosfär. Använd positionsberoende ljud i 3D med noden `AudioStreamPlayer3D`.

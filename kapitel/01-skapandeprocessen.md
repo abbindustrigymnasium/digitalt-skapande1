@@ -105,15 +105,6 @@ Lägg märke till raden "Varför". Det är där du visar att du gjort ett medvet
 - **Estetik:** de konstnärliga och känslomässiga egenskaperna hos ett verk, till exempel stil och stämning.
 - **Dokumentation:** det material som visar hur och varför ett arbete blev som det blev.
 
-## Testa dig själv
-
-1. Nämn de faser som ingår i en skapandeprocess och beskriv kort vad som händer i två av dem.
-2. Varför kan det bli billigare att gå tillbaka till skissen tidigt än att ändra sent?
-3. Ge ett exempel på en övergång från analogt till digitalt och en från digitalt till analogt.
-4. Vad menas med att en teknisk begränsning kan bli en estetik?
-5. Varför är det inte säkert att ett verktygs standardinställningar är bra för ditt verk?
-6. Vilka tre frågor ska en bra dokumentation besvara?
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) och [3D-spelet](../projekt/3d-spel/README.md) går du igenom hela processen två gånger. Starta din processlogg redan första lektionen. Betygskriterierna handlar om hur väl du känner till processens faser och om hur noggrann din dokumentation är, så loggen är en viktig del av underlaget.

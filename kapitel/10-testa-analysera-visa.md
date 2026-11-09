@@ -142,16 +142,6 @@ Inför en mässa eller visning bör du ha skärmbilder, en kort presentation och
 - **Exportmall:** färdig kod från Godot som krävs för att bygga ett spel för en viss plattform.
 - **Spridningsväg:** det sätt ett verk når sin publik.
 
-## Testa dig själv
-
-1. Varför ska du inte hjälpa testaren under ett speltest?
-2. Vad är skillnaden mellan att anteckna vad du ser och vad du tror?
-3. Hur kan du använda poäng för att prioritera problem, och när räcker poängen inte?
-4. Vad är skillnaden mellan att analysera och att tycka?
-5. Ge ett exempel på ett estetiskt och ett tekniskt perspektiv på samma del av ett spel.
-6. Varför ska du testa det exporterade spelet på en annan dator?
-7. Vad måste du kontrollera innan du publicerar spelet offentligt?
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) testspelar en klasskamrat ditt spel, du åtgärdar feedbacken, exporterar och redovisar. I [3D-spelet](../projekt/3d-spel/README.md) genomför du användartester, åtgärdar dem, värderar din plan och visar spelet på en mässa där ni provar varandras spel.

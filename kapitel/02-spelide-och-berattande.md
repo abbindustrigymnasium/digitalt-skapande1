@@ -112,15 +112,6 @@ Det sista steget är analogt och tar en stund. Det är så du märker om spelet 
 - **Dramaturgi:** hur spänning byggs upp och släpper över tid.
 - **Målgrupp:** de människor verket är gjort för.
 
-## Testa dig själv
-
-1. Vad måste en pitch säga för att spelidén ska vara tydlig?
-2. Vad är skillnaden mellan mekanik och upplevelse? Ge ett exempel.
-3. Varför bör du testa kärnloopen med enkel grafik först?
-4. Beskriv hur en plats i ett spel kan berätta något utan text.
-5. Vad menas med att berättelse och regler kan säga olika saker?
-6. Varför är en smal målgrupp oftast bättre än "alla"?
-
 ## Koppling till projektet
 
 I [2D-spelets](../projekt/2d-spel/README.md) planeringslektion ska du beskriva din spelidé. Använd pitchmallen som första mening i planen, och ha en tydlig kärnloop klar innan du börjar bygga. I [3D-spelet](../projekt/3d-spel/README.md) kräver projektplanen dessutom att du skriver ut en målgrupp.

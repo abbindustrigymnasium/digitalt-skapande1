@@ -154,15 +154,6 @@ Animationerna `ga` och `sta` skapar du i animationspanelen. Du kan också använ
 - **Tile:** liten upprepad bit av en bana.
 - **Bildruta och fps:** en enskild bild i en animation, och antal sådana per sekund.
 
-## Testa dig själv
-
-1. Hur kan du testa om en figur har en tydlig silhuett?
-2. Varför är valör ofta viktigare än nyans i spelgrafik?
-3. Vad händer med ett spel när palettens färger får tydliga uppgifter?
-4. Vad är skillnaden mellan en sprite och ett spritesheet?
-5. Varför bör en pixelgrafik skalas med ett heltal?
-6. Vad är anticipation, och vilken risk finns med det i spel?
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) ska du ha sprites för spelare, fiender och bakgrund, minst en enkel animation och gärna ett tileset. Bestäm stil och palett innan du börjar rita, och skriv motiveringen i loggen.

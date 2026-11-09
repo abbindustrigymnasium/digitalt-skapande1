@@ -116,15 +116,6 @@ Det klarar inte ens gränsen för stor text. Texten skulle gå att läsa på din
 - **Tillgänglighet:** att fler kan använda något, oavsett funktionsvariation.
 - **Kontrastförhållande:** mått på skillnaden i ljushet mellan text och bakgrund.
 
-## Testa dig själv
-
-1. Vilken fråga bör styra vad som ska finnas i ett spels HUD?
-2. Vad är skillnaden mellan en HUD och ett diegetiskt gränssnitt?
-3. Hur kan en bana lära spelaren en regel utan text?
-4. Varför bör du inte låta färg vara enda signal?
-5. Vad krävs för att en meny ska fungera utan mus?
-6. Vilka kontrastförhållanden rekommenderar WCAG för vanlig och stor text?
-
 ## Koppling till projektet
 
 I båda projekten krävs startskärm och game over-skärm, och HUD är ett bra tillägg. I [3D-spelet](../projekt/3d-spel/README.md) ska du dessutom arbeta med tillgänglighet, till exempel kontrast, textstorlek och kontroller, och värdera det i din plan. I [2D-spelet](../projekt/2d-spel/README.md) räcker tydliga menyer och kontroller som en början.

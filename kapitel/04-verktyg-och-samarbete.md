@@ -136,15 +136,6 @@ I en grupp behöver ni dessutom bestämma vem som ansvarar för vad och hur ni h
 - **Arbetsflöde:** de steg och verktyg ett material går igenom.
 - **Versionshantering:** system som sparar ändringshistoriken för filer.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan en källfil och en exportfil, och varför ska du spara båda?
-2. Varför passar PNG bättre än JPG för en spelfigur?
-3. Vad är skillnaden mellan raster- och vektorgrafik?
-4. Beskriv ett arbetsflöde från pappersskiss till en bild i spelet.
-5. Varför bör en grupp bestämma var besluten ska samlas?
-6. När behöver du Git LFS?
-
 ## Koppling till projektet
 
 I [2D-spelet](../projekt/2d-spel/README.md) lämnar du in koden på GitHub, och i [3D-spelet](../projekt/3d-spel/README.md) används GitHub Classroom med Git LFS. Bygg upp mappstrukturen redan vid projektstart, och lägg med `KREDITER.md` från början.

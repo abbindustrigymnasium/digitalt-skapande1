@@ -130,16 +130,6 @@ En plan är en gissning. Under arbetets gång ser du om den stämmer. Efter proj
 - **Omfång:** hur mycket som ingår i ett projekt.
 - **Prioritering:** att bestämma vad som är viktigast och vad som kan strykas.
 
-## Testa dig själv
-
-1. Varför lönar det sig att rita tio små skisser i stället för en stor?
-2. Vad är skillnaden mellan en moodboard och en skärmskiss?
-3. När i processen är en pappersprototyp mest användbar?
-4. Vad behöver finnas med i en projektplan?
-5. Vad betyder "Måste, Bör, Kan", och varför är det användbart?
-6. Varför bör du ha en spelbar version så tidigt som möjligt?
-7. Vad innebär det att värdera en projektplan efter ett projekt?
-
 ## Koppling till projektet
 
 Planeringen är en egen del av båda projekten. I [2D-spelet](../projekt/2d-spel/README.md) ska du skriva ett dokument med spelidé, skiss och pseudokod eller flödesschema och få det godkänt. I [3D-spelet](../projekt/3d-spel/README.md) krävs en projektplan med spelidé, målgrupp, skisser, kravlista och tekniska förutsättningar.

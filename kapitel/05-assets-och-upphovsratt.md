@@ -130,16 +130,6 @@ Skolverket lyfter fram just den här sortens frågor i ämnets syfte. Ta upp dem
 - **Kreditera:** att ange vem som gjort något.
 - **Varumärke:** kännetecken som skiljer ett företags varor från andras, till exempel ett namn eller en logotyp.
 
-## Testa dig själv
-
-1. Måste man ansöka om upphovsrätt? Motivera.
-2. Vad är skillnaden mellan ekonomisk och ideell rätt?
-3. Hur länge gäller upphovsrätten som huvudregel?
-4. Varför får du återskapa ett känt spels idé, men inte använda dess figurer?
-5. Vad betyder de fyra villkoren BY, SA, NC och ND?
-6. Vilka uppgifter behöver en bra kreditering innehålla?
-7. Nämn två etiska frågor du behöver ta ställning till i ett spelprojekt.
-
 ## Koppling till projektet
 
 I både [2D-spelet](../projekt/2d-spel/README.md) och [3D-spelet](../projekt/3d-spel/README.md) gäller att koden inte får hämtas färdig från nätet. Assets är en annan fråga: 3D-projektet nämner färdiga assets som ett alternativ, och 2D-guiden tar inte upp det, så fråga läraren om du vill använda lånat material där. Starta `KREDITER.md` första dagen och lägg till en rad varje gång du hämtar något.
